@@ -1,0 +1,23 @@
+{
+  "PollIntervalMs": 12000,
+  "RetryIntervalMs": 30000,
+  "IconsFolder": "icons",
+  "IconThresholds": [
+    {
+      "MaxPercent": 20,
+      "Icon": "battery_20.ico"
+    },
+    {
+      "MaxPercent": 59,
+      "Icon": "battery_60.ico"
+    },
+    {
+      "MaxPercent": 89,
+      "Icon": "battery_90.ico"
+    },
+    {
+      "MaxPercent": 100,
+      "Icon": "battery_100.ico"
+    }
+  ]
+}

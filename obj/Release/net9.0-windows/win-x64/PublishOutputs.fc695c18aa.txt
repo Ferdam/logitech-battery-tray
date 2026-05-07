@@ -1,0 +1,7 @@
+C:\Users\FerdamDMD\OneDrive\Documentos\Projects\logitech-battery-tray\bin\Release\net9.0-windows\win-x64\publish\G703BatteryMonitor.pdb
+C:\Users\FerdamDMD\OneDrive\Documentos\Projects\logitech-battery-tray\bin\Release\net9.0-windows\win-x64\publish\icons\battery_100.ico
+C:\Users\FerdamDMD\OneDrive\Documentos\Projects\logitech-battery-tray\bin\Release\net9.0-windows\win-x64\publish\icons\battery_20.ico
+C:\Users\FerdamDMD\OneDrive\Documentos\Projects\logitech-battery-tray\bin\Release\net9.0-windows\win-x64\publish\icons\battery_60.ico
+C:\Users\FerdamDMD\OneDrive\Documentos\Projects\logitech-battery-tray\bin\Release\net9.0-windows\win-x64\publish\icons\battery_90.ico
+C:\Users\FerdamDMD\OneDrive\Documentos\Projects\logitech-battery-tray\bin\Release\net9.0-windows\win-x64\publish\icons\battery_old.ico
+C:\Users\FerdamDMD\OneDrive\Documentos\Projects\logitech-battery-tray\bin\Release\net9.0-windows\win-x64\publish\G703BatteryMonitor.exe

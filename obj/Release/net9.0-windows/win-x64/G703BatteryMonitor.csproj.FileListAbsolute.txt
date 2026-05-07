@@ -1,0 +1,15 @@
+C:\Users\FerdamDMD\OneDrive\Documentos\Projects\logitech-battery-tray\obj\Release\net9.0-windows\win-x64\G703BatteryMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FerdamDMD\OneDrive\Documentos\Projects\logitech-battery-tray\obj\Release\net9.0-windows\win-x64\G703BatteryMonitor.AssemblyInfoInputs.cache
+C:\Users\FerdamDMD\OneDrive\Documentos\Projects\logitech-battery-tray\obj\Release\net9.0-windows\win-x64\G703BatteryMonitor.AssemblyInfo.cs
+C:\Users\FerdamDMD\OneDrive\Documentos\Projects\logitech-battery-tray\obj\Release\net9.0-windows\win-x64\G703BatteryMonitor.csproj.CoreCompileInputs.cache
+C:\Users\FerdamDMD\OneDrive\Documentos\Projects\logitech-battery-tray\bin\Release\net9.0-windows\win-x64\G703BatteryMonitor.exe
+C:\Users\FerdamDMD\OneDrive\Documentos\Projects\logitech-battery-tray\bin\Release\net9.0-windows\win-x64\G703BatteryMonitor.deps.json
+C:\Users\FerdamDMD\OneDrive\Documentos\Projects\logitech-battery-tray\bin\Release\net9.0-windows\win-x64\G703BatteryMonitor.runtimeconfig.json
+C:\Users\FerdamDMD\OneDrive\Documentos\Projects\logitech-battery-tray\bin\Release\net9.0-windows\win-x64\G703BatteryMonitor.dll
+C:\Users\FerdamDMD\OneDrive\Documentos\Projects\logitech-battery-tray\bin\Release\net9.0-windows\win-x64\G703BatteryMonitor.pdb
+C:\Users\FerdamDMD\OneDrive\Documentos\Projects\logitech-battery-tray\obj\Release\net9.0-windows\win-x64\G703BatteryMonitor.dll
+C:\Users\FerdamDMD\OneDrive\Documentos\Projects\logitech-battery-tray\obj\Release\net9.0-windows\win-x64\refint\G703BatteryMonitor.dll
+C:\Users\FerdamDMD\OneDrive\Documentos\Projects\logitech-battery-tray\obj\Release\net9.0-windows\win-x64\G703BatteryMonitor.pdb
+C:\Users\FerdamDMD\OneDrive\Documentos\Projects\logitech-battery-tray\obj\Release\net9.0-windows\win-x64\G703BatteryMonitor.genruntimeconfig.cache
+C:\Users\FerdamDMD\OneDrive\Documentos\Projects\logitech-battery-tray\obj\Release\net9.0-windows\win-x64\ref\G703BatteryMonitor.dll
+C:\Users\FerdamDMD\OneDrive\Documentos\Projects\logitech-battery-tray\bin\Release\net9.0-windows\win-x64\hidapi.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "itlVLnYnlrQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FerdamDMD\\OneDrive\\Documentos\\Projects\\logitech-battery-tray\\G703BatteryMonitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FerdamDMD\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.11\\microsoft.net.illink.tasks.9.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

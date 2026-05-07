@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AssemblyName>G703BatteryMonitor</AssemblyName>
+    <RootNamespace>G703BatteryMonitor</RootNamespace>
+    <ApplicationIcon>icons\battery_100.ico</ApplicationIcon>
+    <!-- No console window -->
+    <StartupObject>G703BatteryMonitor.Program</StartupObject>
+    <!-- Single-file publish friendly -->
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>false</SelfContained>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <!-- Bundle hidapi.dll (and any other loose content) into the single .exe -->
+    <IncludeAllContentForSelfExtract>true</IncludeAllContentForSelfExtract>
+    <EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Icons are embedded into the assembly; a same-named file dropped in
+         <exe-dir>\icons\ at runtime overrides the embedded copy.
+         LogicalName is pinned so the lookup key is predictable across
+         platforms / MSBuild versions. -->
+    <EmbeddedResource Include="icons\*.ico">
+      <LogicalName>G703BatteryMonitor.icons.%(Filename)%(Extension)</LogicalName>
+    </EmbeddedResource>
+
+    <!-- Native DLL: copied next to the exe for plain `dotnet build`/`dotnet run`,
+         and bundled into the single-file exe at publish time. -->
+    <Content Include="hidapi.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>
